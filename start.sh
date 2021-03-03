@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # 拉取代码
 git pull
 
