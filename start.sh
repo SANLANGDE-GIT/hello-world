@@ -1,5 +1,5 @@
 # 拉取代码
-git pull
+git pull git@github.com:SANLANGDE-GIT/hello-world.git
 
 # 安装依赖和打包
 npm install --registry=https://registry.npm.taobao.org/ && npm run dev
